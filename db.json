@@ -1,9 +1,4 @@
 {
-   "response_type": "publuc",
+   "response_type": "public",
    "text": "Success",
-   "attachments":[
-       {
-          "text":"Made it boys"
-       }
-   ]
 }
